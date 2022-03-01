@@ -1,0 +1,34 @@
+webpack5.surge.sh
+
+npm init -y
+
+
+Dependencias
+npm install react react-dom core-js firebase
+
+Dependencias de desarrollador con -D
+npm install webpack webpack-cli webpack-dev-server webpack-merge @babel/core @babel/preset-env @babel/preset-react babel-loader clean-webpack-plugin html-webpack-plugin style-loader css-loader @pmmmwh/react-refresh-webpack-plugin react-refresh mini-css-extract-plugin -D
+
+
+@babel/core 
+@babel/preset-env
+@babel/preset-react
+babel-loader
+
+nmp install @babel/core @babel/preset-env @babel/preset-react babel-loader -D
+
+clean-webpack-plugin 
+html-webpack-plugin 
+
+npm install clean-webpack-plugin html-webpack-plugin -D
+
+style-loader
+css-loader
+
+npm install style-loader css-loader -D  
+ 
+@pmmmwh/react-refresh-webpack-plugin 
+react-refresh
+mini-css-extract-plugin
+
+npm install @pmmmwh/react-refresh-webpack-plugin react-refresh mini-css-extract-plugin -D
